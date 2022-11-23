@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+body{background-image: linear-gradient(to bottom,#465E73,#A8B5BF);background-attachment: fixed;}
+main{background-color: #A8B5BF;border-radius:0%;}
+img{display: block;margin-left: auto;margin-right: auto;}
+h1{background-color: #A8B5BF;color: #00010d;font: size 17px;text-align: center;font-size: 2em;}
+h2{background-color: #A8B5BF;color: #00010D;text-align: center;font-size: 1.7em;}
+p{font-size: 19px;text-decoration: underline;color: rgb(0, 0, 0);}
+ul{font: italic 1em 'Arial',sans-serif;}
